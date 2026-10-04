@@ -1,0 +1,14 @@
+{
+  "name": "tiny_mlp",
+  "input_shape": [
+    4,
+    64
+  ],
+  "hidden_size": 128,
+  "output_shape": [
+    4,
+    64
+  ],
+  "dtype": "bfloat16",
+  "activation": "GELU"
+}
